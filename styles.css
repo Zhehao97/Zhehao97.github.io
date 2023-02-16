@@ -3,3 +3,15 @@
   height: 510px;
   margin-top: 20px;
 }
+
+.container {
+  display: flex;
+}
+
+.left-column {
+  flex-basis: 30%;
+}
+
+.right-column {
+  flex-basis: 70%;
+}
